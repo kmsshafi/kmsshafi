@@ -26,7 +26,7 @@ I'm passionate about decoding complex biological datasets to uncover actionable 
 `Bash` | `Python` | `R` | `HTML` | `MySQL` | `Nextflow` | `Snakemake`
 
 **Bioinformatics & Analysis:**  
-Genomic & transcriptomic assembly | Promoter analysis | MD simulations | Molecular docking | GWAS | CAPS & TRExFlow pipeline development
+Genomic & transcriptomic assembly | Regulatory genomics | MD simulations | Molecular docking | GWAS | Pipeline & database development
 
 **Experimental Biology:**  
 RT-qPCR | Enzyme inhibition assays | Bioactive compound extraction | Toxicity assays
@@ -52,18 +52,12 @@ RT-qPCR | Enzyme inhibition assays | Bioactive compound extraction | Toxicity as
 
 ---
 
-## 📈 GitHub Stats
-
-![Shafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmsshafi&show_icons=true&theme=default)
-
----
-
 ## 📌 Highlighted Repositories
 
 <!-- Replace these with your actual GitHub repo names -->
 [🔬 TRExFlow Pipeline](https://github.com/kmsshafi/TRExFlow)  
 [🧬 CAPS Protocol](https://github.com/kmsshafi/CAPS-protocol)  
-[🧠 Cold Stress Genes in Rosaceae](https://github.com/kmsshafi/cold-stress-rosaceae)
+[🧠 STIF Algorithm](https://github.com/kmsshafi/cold-stress-rosaceae)
 
 ---
 
