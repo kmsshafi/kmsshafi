@@ -26,7 +26,7 @@ I'm passionate about decoding complex biological datasets to uncover actionable 
 `Bash` | `Python` | `R` | `HTML` | `MySQL` | `Nextflow` | `Snakemake`
 
 **Bioinformatics & Analysis:**  
-Genomic & transcriptomic assembly | Regulatory genomics | MD simulations | Molecular docking | GWAS | Pipeline & database development
+Genomic & transcriptomic assembly | Regulatory genomics | Comparative genomics | Structural biology | GWAS | Pipeline & database development
 
 **Experimental Biology:**  
 RT-qPCR | Enzyme inhibition assays | Bioactive compound extraction | Toxicity assays
@@ -44,8 +44,8 @@ RT-qPCR | Enzyme inhibition assays | Bioactive compound extraction | Toxicity as
 ## 📚 Selected Publications
 
 - **Genome-Wide Association Study on Iron Deficiency in Rice** – Functional & Integrative Genomics [2024](https://doi.org/10.1007/s10142-024-01478-w)  
-- **TRExFlow Pipeline for Regulatory Sequence Discovery** – Bioinformatics (Under Review)  
-- **DUF1645 Transcription Factors in Rice** – Genome Biology & Evolution (Under Review)  
+- **Diversity of Sodium Transporter HKT1;5 in Genus Oryza.** – Rice Science [2022](https://doi.org/10.1016/j.rsci.2021.12.003)  
+- **Dengue DNA vaccine encoding EDIII-NS1 consensus design** – Molecular therapy [2022](https://doi.org/10.1016/j.ymthe.2022.01.013)   
 - **Transcriptome profiling of Moringa species** – [BMC Plant Biology (2022)](https://doi.org/10.1186/s12870-022-03938-6)
 
 📄 [Full publication list available here](https://scholar.google.com/citations?user=K.%20Mohamed%20Shafi)
@@ -56,8 +56,8 @@ RT-qPCR | Enzyme inhibition assays | Bioactive compound extraction | Toxicity as
 
 <!-- Replace these with your actual GitHub repo names -->
 [🔬 TRExFlow Pipeline](https://github.com/kmsshafi/TRExFlow)  
-[🧬 CAPS Protocol](https://github.com/kmsshafi/CAPS-protocol)  
-[🧠 STIF Algorithm](https://github.com/kmsshafi/cold-stress-rosaceae)
+[🧬 Genome annotation](https://github.com/kmsshafi/genome-annotation-maker)  
+[🌱 STIF Algorithm](https://github.com/kmsshafi/STIFAL)
 
 ---
 
