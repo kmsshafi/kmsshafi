@@ -35,7 +35,7 @@ RT-qPCR | Enzyme inhibition assays | Bioactive compound extraction | Toxicity as
 
 ## 🚀 Current Projects
 
-- 🧬 **TRExFlow** – A scalable Nextflow pipeline for regulatory sequence extraction  
+- 🧬 **TRExFlow** – A scalable Nextflow based Transcritome Regulatory Exploration workFlow
 - 🌾 Structural genomics of rice under **iron deficiency and salinity stress**  
 - 🦋 Genomic insights into endemic butterflies and **plant stress biology**
 
@@ -61,11 +61,4 @@ RT-qPCR | Enzyme inhibition assays | Bioactive compound extraction | Toxicity as
 
 ---
 
-## 🌍 Let's Collaborate
-
-If you're interested in collaborations in computational biology, plant genomics, pipeline development, or data-driven research in life sciences, feel free to reach out!
-
----
-
-> “Science is about knowing; engineering is about doing. I believe in bridging both through bioinformatics.”
 
